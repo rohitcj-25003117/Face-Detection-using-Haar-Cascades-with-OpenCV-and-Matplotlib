@@ -1,4 +1,4 @@
-# Face-Detection-using-Haar-Cascades-with-OpenCV-and-Matplotlib
+
 # Face Detection using Haar Cascades with OpenCV and Matplotlib
 
 ## Name: C J Rohit
